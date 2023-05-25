@@ -1,4 +1,3 @@
-```shell
    #!/bin/bash
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
@@ -27,4 +26,3 @@
    s=`expr $p \* $t \* $r / 100`
    echo "The simple interest is: "
    echo $s
-```
